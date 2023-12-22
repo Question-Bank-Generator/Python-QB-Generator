@@ -7,3 +7,5 @@ Execute the following command:
 ```pip -r requirement.txt```
 Execute the python file with
 ```python question_generator.py```
+To run the app:
+```steamlit run question_generator.py```
